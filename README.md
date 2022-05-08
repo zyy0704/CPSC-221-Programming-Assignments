@@ -22,7 +22,7 @@ DFS flood fill with the negative colour:
 
 Examples: 
 
-FLipping PNG horizontally 
+Flipping PNG horizontally 
 
 <img src="https://github.com/zyy0704/CPSC-221-Programming-Assignments/blob/main/PA3/originals/cs-256x224.png" width=300 height=250>   <img src="https://github.com/zyy0704/CPSC-221-Programming-Assignments/blob/main/PA3/soln-images/soln-fliphorizontal-cs.png" width=300 height=250>
 
