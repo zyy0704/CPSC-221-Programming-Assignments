@@ -1,5 +1,5 @@
 # CPSC-221-Programming-Assignments
-CPSC 221 Programming Assignments from 2021W2 
+Programming Assignments from CPSC 221: Basic Algorithms and Data Structures, 2021W2 
 
 ## Programming Assignment 2: 
 
